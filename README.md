@@ -89,44 +89,6 @@ Built an interactive dashboard with:
 
 ---
 
-## ▶️ How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/lahariramakrishna/Customer_behavior.git
-cd Customer_behavior
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2-binary
-
-# 3. Open the notebook
-jupyter notebook customer_behavior.ipynb
-
-# 4. Set up PostgreSQL
-# Create a database named 'customer_behavior' and update credentials in Cell 19
-
-# 5. Run SQL queries
-# Execute customer_behavior.sql in pgAdmin or any PostgreSQL client
-
-# 6. Open dashboard
-# Open customer_behavior_dashboard.pbix in Power BI Desktop
-```
-
----
-
-## 📁 Repository Structure
-
-```
-Customer_behavior/
-│
-├── customer_behavior.ipynb          # Data cleaning & feature engineering
-├── customer_behavior.sql            # 10 business SQL queries
-├── customer_behavior_dashboard.pbix # Power BI dashboard
-├── customer_shopping_behavior.csv   # Raw dataset
-└── README.md
-```
-
----
 
 ## 💡 Skills Demonstrated
 

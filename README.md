@@ -55,6 +55,9 @@ Wrote 10 business-focused queries covering revenue analysis, customer segmentati
 | 10 | Revenue contribution by age group | GROUP BY + engineered feature |
 
 ### 3. 📊 Power BI Dashboard
+
+![Customer Behavior Dashboard](dashboard.png)
+
 Built an interactive dashboard with:
 - KPIs: Total Revenue, Avg Purchase Amount, Avg Review Rating
 - Revenue breakdown by gender, category, and age group
@@ -88,7 +91,6 @@ Built an interactive dashboard with:
 | GitHub | Version control |
 
 ---
-
 
 ## 💡 Skills Demonstrated
 
